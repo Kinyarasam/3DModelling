@@ -1,0 +1,3 @@
+/Users/vivo/Code/Challenges/challenges/3DModelling/build/CMakeFiles/3d_modeling_app.dir
+/Users/vivo/Code/Challenges/challenges/3DModelling/build/CMakeFiles/edit_cache.dir
+/Users/vivo/Code/Challenges/challenges/3DModelling/build/CMakeFiles/rebuild_cache.dir
